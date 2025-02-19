@@ -1,3 +1,4 @@
 x=2
 y=3
-print(x+y)
+z=2
+print(x+y+z)
